@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello World"
+title                    : "Nicholas Beaird"
 title_separator          : "-"
 name                     : "Nick Beaird"
 description              : "An amazing website - coming soon."
@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Beaird"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Physical Oceanographer."
   location         : "Corvallis, OR"
   email            : "nlbeaird@gmail.com"
