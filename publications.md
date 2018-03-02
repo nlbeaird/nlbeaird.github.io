@@ -8,11 +8,12 @@
 
 {::options auto_ids="false" /}
 
-## Submitted/in prep
+## Submitted
 
 * Beaird, N.L. *, F. Straneo, and W. Jenkins, Export of strongly diluted Greenland meltwater from a major glacial fjord *(in revision)*
 
 ---
+## Published
 
 * Beaird, N.L., F. Straneo, W. Jenkins,  2017:  Characteristics of meltwater export from Jakobshavn Isbrae and Ilulissat Icefjord. Annals of Glaciology https://doi.org/10.1017/aog.2017.19
 
