@@ -6,7 +6,7 @@
  #   feature:
 ---
 
-{::options auto_ids="false" /}
+#{::options auto_ids="false" /}
 
 ## Submitted
 
