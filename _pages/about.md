@@ -19,6 +19,6 @@ toc: true
 ## More coming soon
 
 <figure>
-    <a href="/assets/images/bio-photo_tst.jpg"><img src="/assets/images/bio-photo_tst.jpg"></a>
+    <a href="/assets/images/serm_north.jpg"><img src="/assets/images/serm_north.jpg"></a>
     <figcaption>Test image.</figcaption>
 </figure>
