@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 #layout: single
 header:
   #overlay_color: "#000"
@@ -18,3 +18,7 @@ During postdocs at Woods Hole Oceanographic Institution (with Fiamma Straneo) an
 ---
 
 My Ph.D. thesis at the University of Washington (with Peter Rhines and Charlie Eriksen) focused on using autonomous vehicles to measure the overflow of dense water from the Nordic Seas into the subpolar North Atlantic.
+
+---
+
+My CV can be found [here](/assets/beaird_CV.pdf).

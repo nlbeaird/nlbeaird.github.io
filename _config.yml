@@ -92,11 +92,11 @@ analytics:
 author:
   name             : "Nick Beaird"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physical Oceanographer\  \ nlbeaird@gmail.com"
+  bio              : "Physical Oceanographer\  \ \ nlbeaird@gmail.com"
   location         : "Corvallis, OR"
-  email            : 
+  email            :
   uri              :
-  home             : #"_pages/home.md"# null (default), "absolute or relative url to link to author home"
+  home             : "_pages/home.md" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
