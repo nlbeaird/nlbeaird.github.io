@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 #layout: single
 header:
   #overlay_color: "#000"
