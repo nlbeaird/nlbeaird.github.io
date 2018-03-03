@@ -17,8 +17,3 @@ toc: true
 ---
 
 ## More coming soon
-
-<figure>
-    <a href="/assets/images/serm_north.jpg"><img src="/assets/images/serm_north.jpg"></a>
-    <figcaption>Test image.</figcaption>
-</figure>
