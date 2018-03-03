@@ -9,7 +9,8 @@ main:
    - title: "Research"
      url: /research/
    - title: "Other Projects"
-     url: /projects/
+     #url: /projects/
+     url: /blog/
    - title: "About"
      url: /about/
   # - title: "Sample Collections"
