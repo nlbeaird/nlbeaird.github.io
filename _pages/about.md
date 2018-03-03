@@ -18,7 +18,6 @@ toc: true
 
 ## More coming soon
 
-
 <figure>
     <a href="/assets/images/bio-photo_tst.jpg"><img src="/assets/images/bio-photo_tst.jpg"></a>
     <figcaption>Test image.</figcaption>
