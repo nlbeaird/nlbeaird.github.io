@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 excerpt_separator: <!--more-->
-
 header:
   teaser: ../assets/images/serm_north.jpg
 ---
