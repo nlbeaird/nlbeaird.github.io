@@ -23,7 +23,7 @@ toc: true
 ---
 ## Published
 
-* **Beaird, N.L.**, F. Straneo, W. Jenkins,  2017:  Characteristics of meltwater export from Jakobshavn Isbrae and Ilulissat Icefjord. Annals of Glaciology <https://doi.org/10.1017/aog.2017.19>
+* **Beaird, N.L.**, F. Straneo, W. Jenkins,  2017:  Characteristics of meltwater export from Jakobshavn Isbrae and Ilulissat Icefjord. Annals of Glaciology [https://doi.org/10.1017/aog.2017.19](https://doi.org/10.1017/aog.2017.19)
 
 * **Beaird, N.L.**, P.B. Rhines, C.C. Eriksen, 2016:  Observations of Seasonal Subduction at the Iceland-Faroe Front. Journal of Geophysical Research: Oceans, 121, doi:10.1002/2015JC011501
 
