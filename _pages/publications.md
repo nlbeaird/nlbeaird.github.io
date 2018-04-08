@@ -12,13 +12,10 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-03-02T11:22:24-05:00
+
 toc: true
 ---
 
-<! ## Submitted >
-<> ---
-<> ## Published
 
 * **Beaird, N.L.**, F. Straneo, and W. Jenkins, 2018: Export of strongly diluted Greenland meltwater from a major glacial fjord. Geophysical Research Letters *(in press)*
 
