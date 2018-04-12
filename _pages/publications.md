@@ -16,6 +16,11 @@ layouts_gallery:
 toc: true
 ---
 
+## In Review
+
+* M. Cape, F. Straneo, **Beaird, N.L.**, R. Bundy, M. Charette, *(under review Nat. Geo.)* Upwelling at Greenland tidewaters glaciers as a significant source of nutrients to the ocean
+
+## Published
 
 * **Beaird, N.L.**, F. Straneo, and W. Jenkins, 2018: Export of strongly diluted Greenland meltwater from a major glacial fjord. Geophysical Research Letters *(in press)*
 
