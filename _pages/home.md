@@ -21,4 +21,4 @@ My Ph.D. thesis at the University of Washington (with Peter Rhines and Charlie E
 
 ---
 
-My CV can be found [here](/assets/beaird_CV.pdf).
+My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
