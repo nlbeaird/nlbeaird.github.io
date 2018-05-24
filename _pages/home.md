@@ -10,6 +10,9 @@ header:
 ---
 
 **I'm a physical oceanographer excited about making novel observations to better understand high latitude processes.**
+---
+
+My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
 
@@ -18,7 +21,3 @@ During postdocs at Woods Hole Oceanographic Institution (with Fiamma Straneo) an
 ---
 
 My Ph.D. thesis at the University of Washington (with Peter Rhines and Charlie Eriksen) focused on using autonomous vehicles to measure the overflow of dense water from the Nordic Seas into the subpolar North Atlantic.
-
----
-
-My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
