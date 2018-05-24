@@ -92,7 +92,10 @@ analytics:
 author:
   name             : "Nick Beaird"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physical Oceanographer\ Oregon State University\  nlbeaird@gmail.com\ [CV](/assets/beaird_CV.pdf)"
+  bio              : "Physical Oceanographer
+  Oregon State University
+    nlbeaird@gmail.com
+     [CV](/assets/beaird_CV.pdf) "
   location         : "Corvallis, OR"
   email            :
   uri              :
