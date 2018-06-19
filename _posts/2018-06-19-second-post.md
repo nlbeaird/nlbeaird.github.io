@@ -5,10 +5,11 @@ header:
   teaser: ../assets/images/serm_north.jpg
 ---
 
-I'd like to be able to display Jupyter notebooks as blog pages, so this will be a test of that idea.
+I'd like to be able to display Jupyter notebooks as blog pages, so this will be a test of that idea. Below is a Jupyter notebook playing with the energy useage data from the Boston Public Library. So far I'm not having success gettin the images to show up...
 
 
 **Boston Public Library**
+
 I found the city of boston analytics department database, and it has all sorts of cool stuff. Let's just load the BPL energy use and plot it, just to test things out, and just because I like libraries!
 
 
@@ -74,7 +75,7 @@ plt.ylabel('counts')
 
 
 
-![png](BPL_power_files/BPL_power_6_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/BPL_power_files/BPL_power_6_1.png)
 
 
 Looks like the power usage is pretty bimodal. Probably the peak around 600 KW is when the library is closed, and when everything is open the library uses about 1400 KW. Weekdays the library is open from 9 am to 9 pm. Weekends it closes at 5. Let's split the data roughly into open and closed and plot those histograms
