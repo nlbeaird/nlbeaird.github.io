@@ -53,7 +53,7 @@ BPL.plot()
 
 
 
-![png](BPL_power_files/BPL_power_4_1.png)
+![png](./BPL_power_files/BPL_power_4_1.png)
 
 
 Take a look at the distribution of power useage
