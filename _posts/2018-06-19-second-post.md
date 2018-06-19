@@ -5,7 +5,7 @@ header:
   teaser: ../assets/images/serm_north.jpg
 ---
 
-I'd like to be able to display Jupyter notebooks as blog pages, so this will be a test of that idea. Below is a Jupyter notebook playing with the energy useage data from the Boston Public Library. So far I'm not having success gettin the images to show up...
+I'd like to be able to display Jupyter notebooks as blog pages, so this will be a test of that idea. Below is a Jupyter notebook playing with the energy usage data from the Boston Public Library. To get the images to show up I need to write out the full path. There is probably a way to do this that involves less messy directory structure ...
 
 
 **Boston Public Library**
