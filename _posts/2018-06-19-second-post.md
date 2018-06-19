@@ -54,7 +54,7 @@ BPL.plot()
 
 
 
-![png](./BPL_power_files/BPL_power_4_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/BPL_power_files/BPL_power_4_1.png)
 
 
 Take a look at the distribution of power useage
@@ -109,7 +109,7 @@ plt.ylabel('counts')
 
 
 
-![png](BPL_power_files/BPL_power_9_1.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/BPL_power_files/BPL_power_9_1.png)
 
 
 It does look like the peaks line up with the open and closed times. But there are still a lot of high usage values when the library is closed. We should check what this is about!
