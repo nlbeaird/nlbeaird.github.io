@@ -7,6 +7,12 @@ header:
 
 I'd like to be able to display Jupyter notebooks as blog pages, so this will be a test of that idea. Below is a Jupyter notebook playing with the energy usage data from the Boston Public Library. To get the images to show up I need to write out the full path. There is probably a way to do this that involves less messy directory structure ...
 
+To do the conversion I used:
+
+```
+jupyter nbconvert BPL_power.ipynb --to markdown
+```
+
 
 **Boston Public Library**
 
