@@ -1,5 +1,5 @@
 ---
-title: "Testing notebooks"
+title: "Testing notebooks with Boston Public Library energy data"
 excerpt_separator: <!--more-->
 header:
   teaser: ../assets/images/serm_north.jpg
