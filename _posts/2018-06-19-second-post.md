@@ -9,9 +9,9 @@ I'd like to be able to display Jupyter notebooks as blog pages, so this will be 
 
 To do the conversion I used:
 
-```
+```bash
 jupyter nbconvert BPL_power.ipynb --to markdown
-```
+```bash
 
 
 **Boston Public Library**
