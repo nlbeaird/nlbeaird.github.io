@@ -42,7 +42,7 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 
 <figure >
     <img src="/assets/images/watermass_sections_alt3.png">
-    <figcaption> Along and across fjord distributions of Greenland meltwater (Subglacial discharge and submarine meltwater) and ambient ocean water (Atlantic Water) in Sermilik fjord revealed by analysis of noble gas tracers. </figcaption>
+    <figcaption> Along and across fjord distributions of Greenland meltwater (Subglacial discharge and submarine meltwater) and ambient ocean water (Atlantic Water) in Sermilik fjord revealed by analysis of noble gas tracers. Figure from [our 2018 GRL paper](https://doi.org/10.1029/2018GL077000) </figcaption>
 </figure>
 
 
