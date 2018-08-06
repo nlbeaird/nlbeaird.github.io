@@ -27,9 +27,12 @@ Check out some reflections on our work at sea from Sermilik Fjord in 2015:
 
 ## The Dynamic Arctic
 
-Learn more in [this blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/)
+Learn more in [this great blog post by Deb Greene](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) from the Anchorage School District
 
 ## Measuring Greenland's meltwater
+
+Listen to [a radio story](https://www.pri.org/stories/2016-01-19/looking-small-big-answers-greenland) about this work from [Ari Daniel](https://twitter.com/mesoplodon)
+<iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
 
 The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, more and more freshwater drains into the Northern North Atlantic. This may have significant impacts on ocean circulation. In order to start to understand these impacts, we needed to gather some better observations of the spreading of ice sheet meltwater around coastal Greenland. In this work we are using noble gases that are trapped in glacial ice (like helium and neon) as a natural “dye” that traces out the pathways of ice melt in coastal waters. These “dyes” give us a powerful tool to measure the pathways and amount of melted ice pouring into the ocean. This work quantifies the flux of two types of meltwater in a major East Greenland fjord and shows that the meltwater is highly diluted by mixing with warm, salty waters from the deepest part of the fjord. Identifying which ocean waters dilute the glacial melt is one step toward better representing these processes in numerical models.
 
@@ -39,8 +42,7 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 </figure>
 
 
-Listen to [a radio story](https://www.pri.org/stories/2016-01-19/looking-small-big-answers-greenland) about this work from [Ari Daniel](https://twitter.com/mesoplodon)
-<iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
+
 
 ## Bouncing Seagliders
 
