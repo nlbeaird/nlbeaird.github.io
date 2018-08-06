@@ -20,7 +20,6 @@ toc: true
 
 
 Check out some reflections on our work at sea from Sermilik Fjord in 2015:
-
 {% include video id="UjsAtunkIc0" provider="youtube" %}
 
 
@@ -31,6 +30,8 @@ Check out some reflections on our work at sea from Sermilik Fjord in 2015:
 
 # Measuring Greenland's meltwater
 
+Listen to [a radio story](https://www.pri.org/stories/2016-01-19/looking-small-big-answers-greenland) about this work from [Ari Daniel](https://twitter.com/mesoplodon)
+<iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
 
 # Bouncing Seagliders
 
