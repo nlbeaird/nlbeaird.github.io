@@ -25,17 +25,23 @@ Check out some reflections on our work at sea from Sermilik Fjord in 2015:
 
 
 
-# The dynamic Arctic
+## The dynamic Arctic
 
 
-# Measuring Greenland's meltwater
+## Measuring Greenland's meltwater
+
+<figure >
+    <img src="/assets/images/watermass_sections_alt3.png"></a>
+    <figcaption>Caption .</figcaption>
+</figure>
+
 
 Listen to [a radio story](https://www.pri.org/stories/2016-01-19/looking-small-big-answers-greenland) about this work from [Ari Daniel](https://twitter.com/mesoplodon)
 <iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
 
-# Bouncing Seagliders
+## Bouncing Seagliders
 
-# Nordic Seas Overflows
+## Nordic Seas Overflows
 
 
 ## [There is water at the bottom of the ocean](https://youtu.be/TGofoH9RDEA?t=150)
