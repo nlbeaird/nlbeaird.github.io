@@ -51,8 +51,8 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 ## Bouncing Seagliders
 
 <figure >
-    <img src="/assets/images/3x3_SA_prof.eps">
-    <figcaption>  </figcaption>
+    <img src="/assets/images/3x3_SA_prof.png">
+    <figcaption> Survey-averaged profiles of potential density anomaly, ${\sigma_{\theta}}$, (\textbf{a}), buoyancy frequency, N, (\textbf{b}), dissipation of TKE, ${\varepsilon}$, (\textbf{c}), and ratio of VMP to sg005 dissipation estimates (\textbf{d}). VMP profiles are plotted in gray, Seaglider (sg005) profiles in black. Profiles are averaged with respect to depth (top row), distance from the ${3^{\circ}}$C isotherm (center row), and height above bottom (bottom row) in 15 m bins. Average noise level (i.e. lowest detection level) for the LEM (eq. \protect\ref{lem_noise}) is plotted as a dashed black line in \textbf{c}. Light gray lines in \textbf{d} show factor of 2 bounds on the estimate ratio. </figcaption>
 </figure>
 
 
