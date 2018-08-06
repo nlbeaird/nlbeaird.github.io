@@ -25,14 +25,17 @@ Check out some reflections on our work at sea from Sermilik Fjord in 2015:
 
 
 
-## The dynamic Arctic
+## The Dynamic Arctic
 
+Learn more in [this blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/)
 
 ## Measuring Greenland's meltwater
 
+The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, more and more freshwater drains into the Northern North Atlantic. This may have significant impacts on ocean circulation. In order to start to understand these impacts, we needed to gather some better observations of the spreading of ice sheet meltwater around coastal Greenland. In this work we are using noble gases that are trapped in glacial ice (like helium and neon) as a natural “dye” that traces out the pathways of ice melt in coastal waters. These “dyes” give us a powerful tool to measure the pathways and amount of melted ice pouring into the ocean. This work quantifies the flux of two types of meltwater in a major East Greenland fjord and shows that the meltwater is highly diluted by mixing with warm, salty waters from the deepest part of the fjord. Identifying which ocean waters dilute the glacial melt is one step toward better representing these processes in numerical models.
+
 <figure >
-    <img src="/assets/images/watermass_sections_alt3.png"></a>
-    <figcaption>Caption .</figcaption>
+    <img src="/assets/images/watermass_sections_alt3.png">
+    <figcaption> Along and across fjord distributions of Greenland meltwater (Subglacial discharge and submarine meltwater)and ambient ocean water (Atlantic Water) in Sermilik fjord revealed by analysis of noble gas tracers. </figcaption>
 </figure>
 
 
