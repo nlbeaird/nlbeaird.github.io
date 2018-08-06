@@ -16,8 +16,16 @@ last_modified_at: 2018-03-02T11:22:24-05:00
 toc: true
 ---
 
-## [There is water at the bottom of the ocean](https://youtu.be/TGofoH9RDEA?t=150)
-### More coming soon
 
+
+
+# Check out some reflections on our work at sea from Sermilik Fjord in 2015:
 
 <iframe width="512" height="332" src="https://player.pbs.org/viralplayer/2365552023/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>
+
+
+
+
+
+
+## [There is water at the bottom of the ocean](https://youtu.be/TGofoH9RDEA?t=150)
