@@ -16,10 +16,9 @@ last_modified_at: 2018-03-02T11:22:24-05:00
 toc: true
 ---
 
+Most of my work revolves around making observations of key high latitude processes. The sections below give an overview of this work.
 
-
-
-Check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
+To get a sense of this of how this happens, check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
 {% include video id="UjsAtunkIc0" provider="youtube" %}
 
 <br>
