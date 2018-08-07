@@ -27,7 +27,7 @@ Check out some reflections on life at sea from our team in Sermilik Fjord in 201
 
 ## The Dynamic Arctic
 
-Learn more in [this great blog post by Deb Greene](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) from the Anchorage School District
+Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
 
 
@@ -51,11 +51,11 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 ## Bouncing Seagliders
 
 
-Turbulent mixing is an important process controlling the descent rate, water mass modification and volume transport increase due to entrainment in the dense overflows across the Greenland-Scotland Ridge. These overflows, along with entrained Atlantic waters, form a major portion of the North Atlantic Deep Water which pervades the abyssal ocean. Three years of Seaglider observations of the overflows across the eastern Greenland-Scotland Ridge are leveraged to map the distribution of dissipation of turbulent kinetic energy on the Iceland-Faroe Ridge. A method has been applied using the finescale vertical velocity and density measurements from the glider to infer dissipation. The method, termed the Large-Eddy Method (LEM), is compared with a microstructure survey of the Faroe Bank Channel (FBC). The LEM reproduces the patterns of dissipation observed in the microstructure survey, which vary over several orders of magnitude. Agreement between the inferred LEM and more direct microstructure measurements is within a factor of two. Application to the 9432 dives which encountered overflow waters on the Iceland-Faroe Ridge reveals three regions of enhanced dissipation: one downstream of the primary FBC sill, another downstream of the secondary FBC sill, and a final region in a narrow jet of overflow along the Iceland shelf break. 
+Turbulent mixing is an important process controlling the descent rate, water mass modification and volume transport increase due to entrainment in the dense overflows across the Greenland-Scotland Ridge. These overflows, along with entrained Atlantic waters, form a major portion of the North Atlantic Deep Water which pervades the abyssal ocean. Three years of Seaglider observations of the overflows across the eastern Greenland-Scotland Ridge are leveraged to map the distribution of dissipation of turbulent kinetic energy on the Iceland-Faroe Ridge. A method has been applied using the finescale vertical velocity and density measurements from the glider to infer dissipation. The method, termed the Large-Eddy Method (LEM), is compared with a microstructure survey of the Faroe Bank Channel (FBC). The LEM reproduces the patterns of dissipation observed in the microstructure survey, which vary over several orders of magnitude. Agreement between the inferred LEM and more direct microstructure measurements is within a factor of two. Application to the 9432 dives which encountered overflow waters on the Iceland-Faroe Ridge reveals three regions of enhanced dissipation: one downstream of the primary FBC sill, another downstream of the secondary FBC sill, and a final region in a narrow jet of overflow along the Iceland shelf break.
 
 <figure >
     <img src="/assets/images/3x3_SA_prof.png">
-    <figcaption> Survey-averaged profiles of potential density anomaly, \sigma \theta, (a), buoyancy frequency, N, (b), dissipation of TKE, \varepsilon, (c), and ratio of VMP to sg005 dissipation estimates (d). VMP profiles are plotted in gray, Seaglider profiles in black. Profiles are averaged with respect to depth (top row), distance from the ${3^{\circ}}$C isotherm (center row), and height above bottom (bottom row) in 15 m bins. Average noise level (i.e. lowest detection level) for the LEM is plotted as a dashed black line in *c*. Light gray lines in *d* show factor of 2 bounds on the estimate ratio. </figcaption>
+    <figcaption> Survey-averaged profiles of potential density anomaly (a), buoyancy frequency, N, (b), dissipation of TKE, (c), and ratio of VMP to sg005 dissipation estimates (d). VMP profiles are plotted in gray, Seaglider profiles in black. Profiles are averaged with respect to depth (top row), distance from the 3C isotherm (center row), and height above bottom (bottom row) in 15 m bins. Average noise level (i.e. lowest detection level) for the LEM is plotted as a dashed black line in c. Light gray lines in d show factor of 2 bounds on the estimate ratio. </figcaption>
 </figure>
 
 
