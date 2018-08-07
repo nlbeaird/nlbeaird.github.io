@@ -22,6 +22,7 @@ toc: true
 Check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
 {% include video id="UjsAtunkIc0" provider="youtube" %}
 
+<br>
 
 <hr width="100%" size="10" noshade>
 
@@ -33,14 +34,14 @@ Check out some reflections on life at sea from our team in Sermilik Fjord in 201
 
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
-
+<hr width="100%" size="10" noshade>
 
 ## Measuring Greenland's meltwater
 
 Listen to a radio story about this work from [Ari Daniel](https://twitter.com/mesoplodon):
 <iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
 
-
+<br>
 
 The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, more and more freshwater drains into the Northern North Atlantic. This may have significant impacts on ocean circulation. In order to start to understand these impacts, we needed to gather some better observations of the spreading of ice sheet meltwater around coastal Greenland. In this work we are using noble gases that are trapped in glacial ice (like helium and neon) as a natural “dye” that traces out the pathways of ice melt in coastal waters. These “dyes” give us a powerful tool to measure the pathways and amount of melted ice pouring into the ocean. This work quantifies the flux of two types of meltwater in a major East Greenland fjord and shows that the meltwater is highly diluted by mixing with warm, salty waters from the deepest part of the fjord. Identifying which ocean waters dilute the glacial melt is one step toward better representing these processes in numerical models.
 
@@ -50,7 +51,7 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 </figure>
 
 
-
+<hr width="100%" size="10" noshade>
 
 ## Bouncing Seagliders
 
@@ -62,7 +63,7 @@ Turbulent mixing is an important process controlling the descent rate, water mas
     <figcaption> Survey-averaged profiles of potential density anomaly (a), buoyancy frequency, N, (b), dissipation of TKE, (c), and ratio of VMP to sg005 dissipation estimates (d). VMP profiles are plotted in gray, Seaglider profiles in black. Profiles are averaged with respect to depth (top row), distance from the 3C isotherm (center row), and height above bottom (bottom row) in 15 m bins. Average noise level (i.e. lowest detection level) for the LEM is plotted as a dashed black line in c. Light gray lines in d show factor of 2 bounds on the estimate ratio. </figcaption>
 </figure>
 
-
+<hr width="100%" size="10" noshade>
 
 ## Nordic Seas Overflows
 
@@ -71,6 +72,7 @@ Turbulent mixing is an important process controlling the descent rate, water mas
     <figcaption> Faroe Bank Channel Overflow  </figcaption>
 </figure>
 
+<hr width="100%" size="10" noshade>
 
 ## There is water at the bottom of the ocean
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGofoH9RDEA?rel=0&amp;showinfo=0&amp;start=152" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
