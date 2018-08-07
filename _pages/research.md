@@ -73,4 +73,4 @@ Turbulent mixing is an important process controlling the descent rate, water mas
 
 
 ## There is water at the bottom of the ocean
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TGofoH9RDEA?rel=0&amp;start=152" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGofoH9RDEA?rel=0&amp;showinfo=0&amp;start=152" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
