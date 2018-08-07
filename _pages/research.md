@@ -12,13 +12,13 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-03-02T11:22:24-05:00
+last_modified_at: 2018-08-06T11:22:24-05:00
 toc: true
 ---
 
 Most of my work revolves around making observations of key high latitude processes. The sections below give an overview of this work.
 
-To get a sense of this of how this happens, check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
+For a sense of this of how this happens, check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UjsAtunkIc0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -27,12 +27,12 @@ To get a sense of this of how this happens, check out some reflections on life a
 <br>
 
 <hr width="100%" size="10" noshade>
-
-## The Dynamic Arctic
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
     <figcaption> swirls of phytoplankton in the Chukchi Sea. NASA: https://earthobservatory.nasa.gov/images/92412/churning-in-the-chukchi-sea  </figcaption>
 </figure>
+## The Dynamic Arctic
+
 [coming soon]
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
