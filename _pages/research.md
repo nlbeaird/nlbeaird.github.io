@@ -25,9 +25,9 @@ For a sense of this of how this happens, check out some reflections on life at s
 
 
 <br>
-
-## The Dynamic Arctic
 <hr width="100%" size="10" noshade>
+## The Dynamic Arctic
+
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
     <figcaption> swirls of phytoplankton in the Chukchi Sea. NASA: https://earthobservatory.nasa.gov/images/92412/churning-in-the-chukchi-sea  </figcaption>
