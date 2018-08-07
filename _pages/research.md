@@ -23,7 +23,7 @@ Check out some reflections on life at sea from our team in Sermilik Fjord in 201
 {% include video id="UjsAtunkIc0" provider="youtube" %}
 
 
-
+<hr width="100%" size="10" noshade>
 
 ## The Dynamic Arctic
 <figure >
