@@ -26,6 +26,10 @@ Check out some reflections on life at sea from our team in Sermilik Fjord in 201
 
 
 ## The Dynamic Arctic
+<figure >
+    <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
+    <figcaption> swirls of phytoplankton in the Chukchi Sea  </figcaption>
+</figure>
 
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
@@ -61,6 +65,11 @@ Turbulent mixing is an important process controlling the descent rate, water mas
 
 
 ## Nordic Seas Overflows
+
+<figure >
+    <img src="/assets/images/fbc_mapped_thickness.png">
+    <figcaption> Faroe Bank Channel Overflow  </figcaption>
+</figure>
 
 
 ## [There is water at the bottom of the ocean](https://youtu.be/TGofoH9RDEA?t=150)
