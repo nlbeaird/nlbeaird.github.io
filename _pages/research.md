@@ -30,7 +30,7 @@ For a sense of this of how this happens, check out some reflections on life at s
 
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
-    <figcaption> swirls of phytoplankton in the Chukchi Sea. NASA: https://earthobservatory.nasa.gov/images/92412/churning-in-the-chukchi-sea  </figcaption>
+    <figcaption> swirls of phytoplankton in the Chukchi Sea, <a href=<"https://earthobservatory.nasa.gov/images/92412/churning-in-the-chukchi-sea"> NASA <\a> </figcaption>
 </figure>
 [coming soon]
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
