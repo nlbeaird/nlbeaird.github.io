@@ -30,7 +30,7 @@ For a sense of this of how this happens, check out some reflections on life at s
 
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
-    <figcaption> swirls of phytoplankton in the Chukchi Sea, <a href=<"https://earthobservatory.nasa.gov/images/92412/churning-in-the-chukchi-sea"> NASA <\a> </figcaption>
+    <figcaption> swirls of phytoplankton in the Chukchi Sea from NASA  </figcaption>
 </figure>
 [coming soon]
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
@@ -48,7 +48,7 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 
 <figure >
     <img src="/assets/images/watermass_sections_alt3.png">
-    <figcaption> Along and across fjord distributions of Greenland meltwater (Subglacial discharge and submarine meltwater) and ambient ocean water (Atlantic Water) in Sermilik fjord revealed by analysis of noble gas tracers. Figure from our 2018 GRL paper(https://doi.org/10.1029/2018GL077000) </figcaption>
+    <figcaption> Along and across fjord distributions of Greenland meltwater (Subglacial discharge and submarine meltwater) and ambient ocean water (Atlantic Water) in Sermilik fjord revealed by analysis of noble gas tracers. Figure from our 2018 GRL paper (https://doi.org/10.1029/2018GL077000) </figcaption>
 </figure>
 
 
