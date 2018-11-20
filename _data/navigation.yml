@@ -11,8 +11,8 @@ main:
    - title: "Other Projects"
      #url: /projects/
      url: /blog/
-  - title: "CV"
-    url: /cv/
+   - title: "CV"
+     url: /cv/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

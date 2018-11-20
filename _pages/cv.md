@@ -17,16 +17,6 @@ toc: true
 ---
 
 
----
-address:
-- |
-     beairdn\@oregonstate.edu\
-    (401) $\cdot$ 573 $\cdot$ 9456\
-    https://nlbeaird.github.io/
-- |
-    College of Earth, Ocean, and Atmospheric Sciences, Oregon State
-    University
----
 
 Education
 
