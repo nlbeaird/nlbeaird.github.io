@@ -16,9 +16,9 @@ last_modified_at: 2018-08-06T11:22:24-05:00
 toc: true
 ---
 
+[pdf](https://nlbeaird.github.io/assets/beaird_CV.pdf)
 
-
-Education
+# Education
 
 **University of Washington** Nov. 2013\
 Ph.D. Oceanography\
@@ -31,7 +31,7 @@ M.Sc. Oceanography
 **Colby College** May 2006\
 B.A. Physics, Mathematical Sciences -- *cum laude*
 
-Research Positions
+# Research Positions
 
 **Postdoctoral Research Associate** Dec. 2017 -- present\
 Oregon State University\
@@ -57,7 +57,7 @@ Colby College\
 Time-domain spectroscopy to measure tensor polarizabilities of Sodium
 Rydberg states.
 
-Publications
+# Publications
 
 \[8\] M. Cape, F. Straneo, **Beaird, N.L.**, R. Bundy, M. Charette,
 *\*in press Nature Geoscience*: Nutrient release to oceans from
@@ -93,7 +93,7 @@ Dissipation of Turbulent Kinetic Energy inferred from Seagliders: An
 application to the eastern Nordic Seas overflows. *Journal of Physical
 Oceanography*, 42, doi: 10.1175/JPO-D-12-094.1
 
-Grants
+# Grants
 
 NSF OPP-1734777, (09/01/2017 - 09/01/2019). Physical Impacts on late
 Season Productivity in Changing Arctic. Co-PIs: Emily Shroyer, **N.L.
@@ -107,7 +107,7 @@ WHOI Ocean and Climate Change Institute, (7/01/2014 - 7/01/2016). Using
 Noble Gases to Distinguish Glacial Freshwater Sources from Greenland.
 Co-PIs: **N.L. Beaird**, F. Straneo, W. Jenkins.
 
-Fellowships & Awards
+# Fellowships & Awards
 
 Ocean Outlook Fellowship, University of Bergen 2017
 
@@ -118,7 +118,7 @@ S.S. & I.M.F. Marsden Prize in Earth Sciences, Colby College 2006
 
 National Physics Honor Society 2006
 
-Conference Presentations
+# Conference Presentations
 
 Beaird, N.L., E. Shroyer, L. Juranek, B. Hales (2018), Late Summer
 Observations of Turbulent Nutrient Flux in the Chukchi Sea. **Poster
@@ -189,7 +189,7 @@ Beaird, N.L., C.C. Eriksen, P.B. Rhines (2010), Overflow and Entrainment
 Along the Iceland-Faroe Ridge Observed in Seaglider Repeat Surveys.
 **Oral Presentation**, Ocean Sciences Meeting, Portland, USA.
 
-Seminars
+# Seminars
 
 University of North Carolina Wilmington, Physics & Physical Oceanography
 Seminar 2018
@@ -238,7 +238,7 @@ BIAC-POCAHONTAS Symposium, Rosendal, Norway 2010
 
 Alpine Summer School: Buoyancy Driven Flows, Valsavarenche, Italy 2010
 
-Fieldwork
+# Fieldwork
 
 **PS109: Greenland Ice Sheet- Ocean Interactions** 2017\
 Northeast Greenland Shelf, 79N Glacier\
@@ -298,7 +298,7 @@ South Pacific - Southern Ocean\
 Collected and analyzed the tracers CFC11/12 and SF6 using a gas
 chromatograph.
 
-Teaching & Outreach
+# Teaching & Outreach
 
 **OSU 'Mathcamp'**\
 Guest lecturer for graduate student math bootcamp.
@@ -361,7 +361,7 @@ Algebra.
 Graded assignments and led review sessions for an undergraduate Linear
 Algebra course.
 
-Scientific Service
+# Scientific Service
 
 **Reviewer**\
 Nature Geoscience\
@@ -376,7 +376,7 @@ National Science Foundation OCE & OPP proposals
 WHOI Postdoctoral Association Representative (Treasurer): 2014-2015\
 WHOI Educational Council: 2014-2015
 
-Professional Society Membership
+# Professional Society Membership
 
 American Geophysical Union
 
