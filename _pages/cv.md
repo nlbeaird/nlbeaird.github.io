@@ -59,7 +59,7 @@ Rydberg states.
 
 # Publications
 
-
+\[8\] M. Cape, F. Straneo, **Beaird, N.L.**, R. Bundy, M. Charette, 2018: Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. *Nature Geoscience*, doi: 10.1038/s41561-018-0268-4
 
 \[7\] **Beaird, N.L.**, F. Straneo, W. Jenkins, 2018: Export of strongly
 diluted Greenland meltwater from a major glacial fjord. *Geophysical
