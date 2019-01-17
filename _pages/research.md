@@ -27,14 +27,14 @@ For a sense of this of how this happens, check out some reflections on life at s
 <br>
 
 <hr width="100%" size="10" noshade>
-## Glacial Meltwater and ecosystems
+## Glacial Meltwater and Ecosystems
 
 <figure class="half" >
     <img  src="/assets/images/nat_geo_cover.png">
     <figcaption>   </figcaption>
 </figure>
 
-Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4). The upshot: melting ice creates an `ocean elevator' that carries nutrients from the deep ocean up to the surface where it can be used by phytoplankton. This work shows that this mechanism is really important around Greenland.
+Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4). The upshot: melting ice creates an `ocean elevator` that carries nutrients from the deep ocean up to the surface where it can be used by phytoplankton. This work shows that this mechanism is really important around Greenland.
 
 
 <hr width="100%" size="10" noshade>
@@ -49,7 +49,7 @@ Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/fol
 
 <hr width="100%" size="10" noshade>
 
-## Measuring Greenland's meltwater
+## Measuring Greenland's Meltwater
 
 Listen to a radio story about this work from Ari Daniel:
 <iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
