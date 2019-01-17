@@ -30,7 +30,7 @@ For a sense of this of how this happens, check out some reflections on life at s
 ## Glacial Meltwater and ecosystems
 
 <figure >
-    <img src="/assets/images/nat_geo_cover.png">
+    <img width="60%" src="/assets/images/nat_geo_cover.png">
     <figcaption>   </figcaption>
 </figure>
 
