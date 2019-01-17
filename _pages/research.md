@@ -25,6 +25,18 @@ For a sense of this of how this happens, check out some reflections on life at s
 
 
 <br>
+
+<hr width="100%" size="10" noshade>
+## The Dynamic Arctic
+
+<figure >
+    <img src="/assets/images/nat_geo_cover.png">
+    <figcaption>   </figcaption>
+</figure>
+
+Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4) 
+
+
 <hr width="100%" size="10" noshade>
 ## The Dynamic Arctic
 
