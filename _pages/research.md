@@ -29,12 +29,12 @@ For a sense of this of how this happens, check out some reflections on life at s
 <hr width="100%" size="10" noshade>
 ## Glacial Meltwater and ecosystems
 
-<figure >
-    <img width="60%" src="/assets/images/nat_geo_cover.png">
+<figure class="half" >
+    <img  src="/assets/images/nat_geo_cover.png">
     <figcaption>   </figcaption>
 </figure>
 
-Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4)
+Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4). The upshot: melting ice creates an `ocean elevator' that carries nutrients from the deep ocean up to the surface where it can be used by phytoplankton. This work shows that this mechanism is really important around Greenland.
 
 
 <hr width="100%" size="10" noshade>
