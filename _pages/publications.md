@@ -20,7 +20,7 @@ toc: true
 
 ## Published
 
-* M.R. Cape, F. Straneo,  **Beaird, N.L.**, R.M. Bundy, M.A. Charette, 2018:  Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. Nature Geoscience [10.1038/s41561-018-0268-4](http://dx.doi.org/10.1038/s41561-018-0268-4)
+* M.R. Cape, F. Straneo,  **Beaird, N.L.**, R.M. Bundy, M.A. Charette, 2019:  Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. Nature Geoscience [10.1038/s41561-018-0268-4](http://dx.doi.org/10.1038/s41561-018-0268-4)
 
 
 * **Beaird, N.L.**, F. Straneo, and W. Jenkins, 2018: Export of strongly diluted Greenland meltwater from a major glacial fjord. Geophysical Research Letters [doi: 10.1029/2018GL077000](https://doi.org/10.1029/2018GL077000)
