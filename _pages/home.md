@@ -16,7 +16,7 @@ My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
 
-During postdocs at Woods Hole Oceanographic Institution (with Fiamma Straneo) and Oregon State University (with Emily Shroyer), I've researched the interactions between the North Atlantic ocean and the Greenland ice sheet, and explored the role of turbulence in Alaska's Chukchi Sea.
+During postdocs at Woods Hole Oceanographic Institution (with Fiamma Straneo) and Oregon State University (with Emily Shroyer), I've researched the interactions between the North Atlantic ocean and the Greenland ice sheet, and explored the role of turbulence in Alaska's Chukchi Sea. 
 
 ---
 
