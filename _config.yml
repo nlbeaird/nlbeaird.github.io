@@ -92,9 +92,9 @@ analytics:
 author:
   name             : "Nick Beaird"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physical Oceanographer        
-  Rutgers University
-    nlbeaird@marine.rutgers.edu
+  bio              : "<p>Physical Oceanographer <br />
+  Rutgers University<br />
+    nlbeaird@marine.rutgers.edu</p>
      "
   location         : "New Brunswick, NJ"
   email            :
