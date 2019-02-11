@@ -38,7 +38,7 @@ Our exciting new work out lead by Mattias Cape showing the [importance of glacia
 
 
 <figure  >
-    <img  src="/assets/images/serm15.jpeg">
+    <img  src="/assets/images/serm15.jpg">
     <figcaption>   </figcaption>
 </figure>
 
