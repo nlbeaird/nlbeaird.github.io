@@ -16,7 +16,7 @@ My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
 
-I've just started on the teaching faculty in the Department of Marine and Coastal Sciences at Rutgers University. I will working on the new Masters program in Integrated Ocean Observing. More info to come soon!
+I've just started on the teaching faculty in the Department of Marine and Coastal Sciences at Rutgers University. I will be working on the new Masters program in Integrated Ocean Observing. Stay tuned for more info about this!
 
 ---
 
