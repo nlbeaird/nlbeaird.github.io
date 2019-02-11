@@ -93,10 +93,10 @@ author:
   name             : "Nick Beaird"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Physical Oceanographer
-  Oregon State University
-    nlbeaird@gmail.com
+  Rutgers University
+    nlbeaird@marine.rutgers.edu
      "
-  location         : "Corvallis, OR"
+  location         : "New Brunswick, NJ"
   email            :
   uri              :
   home             : #"_pages/home.md" # null (default), "absolute or relative url to link to author home"
