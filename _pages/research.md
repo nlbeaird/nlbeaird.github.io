@@ -37,6 +37,11 @@ For a sense of this of how this happens, check out some reflections on life at s
 Our exciting new work out lead by Mattias Cape showing the [importance of glacial buoyancy input to ecosystems](https://www.nature.com/articles/s41561-018-0268-4). The upshot: melting ice creates an `ocean elevator` that carries nutrients from the deep ocean up to the surface where it can be used by phytoplankton. This work shows that this mechanism is really important around Greenland.
 
 
+<figure  >
+    <img  src="/assets/images/serm15.jpeg">
+    <figcaption>   </figcaption>
+</figure>
+
 <hr width="100%" size="10" noshade>
 ## The Dynamic Arctic
 
