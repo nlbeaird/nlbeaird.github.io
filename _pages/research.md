@@ -61,7 +61,7 @@ Listen to a radio story about this work from Ari Daniel:
 
 <br>
 
-The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, more and more freshwater drains into the Northern North Atlantic. This may have significant impacts on ocean circulation. In order to start to understand these impacts, we needed to gather some better observations of the spreading of ice sheet meltwater around coastal Greenland. In this work we are using noble gases that are trapped in glacial ice (like helium and neon) as a natural “dye” that traces out the pathways of ice melt in coastal waters. These “dyes” give us a powerful tool to measure the pathways and amount of melted ice pouring into the ocean (see examples from [Helheim](https://doi.org/10.1029/2018GL077000), [Jakobshavn](https://doi.org/10.1017/aog.2017.19) , and [Eqip Sermia](https://doi.org/10.1002/2015GL065003) glaciers). This work quantifies the flux of two types of meltwater in a major East Greenland fjord and shows that the meltwater is highly diluted by mixing with warm, salty waters from the deepest part of the fjord. Identifying which ocean waters dilute the glacial melt is one step toward better representing these processes in numerical models.
+The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, more and more freshwater drains into the Northern North Atlantic. This may have significant impacts on ocean circulation. In order to start to understand these impacts, we needed to gather some better observations of the spreading of ice sheet meltwater around coastal Greenland. In this work we are using noble gases that are trapped in glacial ice (like helium and neon) as a natural “dye” that traces out the pathways of ice melt in coastal waters. These “dyes” give us a powerful tool to measure the pathways and amount of melted ice pouring into the ocean (see results of the method from [Helheim](https://doi.org/10.1029/2018GL077000), [Jakobshavn](https://doi.org/10.1017/aog.2017.19) , and [Eqip Sermia](https://doi.org/10.1002/2015GL065003) glaciers). This work quantifies the flux of two types of meltwater in a major East Greenland fjord and shows that the meltwater is highly diluted by mixing with warm, salty waters from the deepest part of the fjord. Identifying which ocean waters dilute the glacial melt is one step toward better representing these processes in numerical models.
 
 <figure >
     <img src="/assets/images/watermass_sections_alt3.png">
@@ -85,9 +85,11 @@ Turbulent mixing is an important process controlling the descent rate, water mas
 
 ## Nordic Seas Overflows
 
+Seaglider based observations of [Faroe Bank Channel structure, and Iceland Faroe Ridge overflow transport ]https://doi.org/10.1175/JPO-D-13-029.1), and observations of seasonal [subduction across the polar front](https://doi.org/10.1002/2015JC011501) boundary between the Iceland Basin and Nordic Seas.  
+
 <figure >
     <img src="/assets/images/fbc_mapped_thickness.png">
-    <figcaption> [Faroe Bank Channel Overflow](https://doi.org/10.1175/JPO-D-13-029.1)  </figcaption>
+    <figcaption> [Faroe Bank Channel Overflow](  </figcaption>
 </figure>
 
 <hr width="100%" size="10" noshade>
