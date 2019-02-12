@@ -85,7 +85,7 @@ Turbulent mixing is an important process controlling the descent rate, water mas
 
 ## Nordic Seas Overflows
 
-Seaglider based observations of [Faroe Bank Channel structure, and Iceland Faroe Ridge overflow transport ]https://doi.org/10.1175/JPO-D-13-029.1), and observations of seasonal [subduction across the polar front](https://doi.org/10.1002/2015JC011501) boundary between the Iceland Basin and Nordic Seas.  
+Seaglider based observations of [Faroe Bank Channel structure, and Iceland Faroe Ridge overflow transport ](https://doi.org/10.1175/JPO-D-13-029.1), and observations of seasonal [subduction across the polar front](https://doi.org/10.1002/2015JC011501) boundary between the Iceland Basin and Nordic Seas.  
 
 <figure >
     <img src="/assets/images/fbc_mapped_thickness.png">
