@@ -1,6 +1,14 @@
 ---
 permalink: /research/
 title: "Research"
+
+header:
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
+  #overlay_image: /assets/images/serm_north.jpg
+  image: /assets/images/grn_nordic.png
+
+
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
