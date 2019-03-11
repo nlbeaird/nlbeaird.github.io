@@ -5,23 +5,9 @@ title: "Research"
 header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
-  #overlay_image: /assets/images/serm_north.jpg
+  overlay_image: /assets/images/serm_north.jpg
   image: /assets/images/grn_nordic.png
 
-
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2018-08-06T11:22:24-05:00
-toc: true
 ---
 
 Most of my work revolves around making observations of key high latitude processes. The sections below give an overview of this work.
