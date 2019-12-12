@@ -53,7 +53,7 @@ Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/fol
 
 <hr width="100%" size="10" noshade>
 
-## Measuring Greenland's Meltwater
+# Measuring Greenland's Meltwater
 
 Listen to a radio story about this work from Ari Daniel:
 <iframe frameborder="0"  src="https://www.pri.org/node/87037/embedded" height="50" width="100%"></iframe>
@@ -70,7 +70,7 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 
 <hr width="100%" size="10" noshade>
 
-## Bouncing Seagliders
+# Bouncing Seagliders
 
 
 Turbulent mixing is an important process controlling the descent rate, water mass modification and volume transport increase due to entrainment in the dense overflows across the Greenland-Scotland Ridge. These overflows, along with entrained Atlantic waters, form a major portion of the North Atlantic Deep Water which pervades the abyssal ocean. Three years of Seaglider observations of the overflows across the eastern Greenland-Scotland Ridge are leveraged to map the [distribution of dissipation of turbulent kinetic energy on the Iceland-Faroe Ridge]( https://doi.org/10.1175/JPO-D-12-094.1). A method has been applied using the finescale vertical velocity and density measurements from the glider to infer dissipation. The method, termed the Large-Eddy Method (LEM), is compared with a microstructure survey of the Faroe Bank Channel (FBC). The LEM reproduces the patterns of dissipation observed in the microstructure survey, which vary over several orders of magnitude. Agreement between the inferred LEM and more direct microstructure measurements is within a factor of two. Application to the 9432 dives which encountered overflow waters on the Iceland-Faroe Ridge reveals three regions of enhanced dissipation: one downstream of the primary FBC sill, another downstream of the secondary FBC sill, and a final region in a narrow jet of overflow along the Iceland shelf break.
@@ -82,7 +82,7 @@ Turbulent mixing is an important process controlling the descent rate, water mas
 
 <hr width="100%" size="10" noshade>
 
-## Nordic Seas Overflows
+# Nordic Seas Overflows
 
 Seaglider based observations of [Faroe Bank Channel structure, and Iceland Faroe Ridge overflow transport ](https://doi.org/10.1175/JPO-D-13-029.1), and observations of seasonal [subduction across the polar front](https://doi.org/10.1002/2015JC011501) boundary between the Iceland Basin and Nordic Seas.  
 
@@ -93,5 +93,5 @@ Seaglider based observations of [Faroe Bank Channel structure, and Iceland Faroe
 
 <hr width="100%" size="10" noshade>
 
-## There is water at the bottom of the ocean
+# There is water at the bottom of the ocean
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGofoH9RDEA?rel=0&amp;showinfo=0&amp;start=152" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
