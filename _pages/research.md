@@ -43,7 +43,12 @@ Our exciting new work out lead by Mattias Cape showing the [importance of glacia
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
     <figcaption> swirls of phytoplankton in the Chukchi Sea from NASA  </figcaption>
 </figure>
-[coming soon]
+We instrumented a unique biogeochemical towed platform with velocity and turbulence sensors to look in fine detail and physical controls on nutrient distributions in the Chukchi Sea. During the cruise we observed an upwelling even that had dramatic impacts on the nutrient inventories on the shelf. More on this in an upcoming paper!
+
+<figure >
+    <img src="/assets/images/BC_BHS.png">
+    <figcaption> High resolution sections across Barrow Canyon and Hanna Shoal  </figcaption>
+</figure>
 Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
 <hr width="100%" size="10" noshade>
