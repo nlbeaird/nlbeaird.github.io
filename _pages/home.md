@@ -11,6 +11,7 @@ header:
 
 **I'm a physical oceanographer excited about making novel observations to better understand high latitude processes.**
 ---
+Read more about this work [here](https://nlbeaird.github.io/research/)
 
 My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
