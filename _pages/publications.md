@@ -16,6 +16,9 @@ layouts_gallery:
 toc: true
 ---
 
+## Submitted
+
+* M. Lindeman, F. Straneo, N. Wilson, J. Toole, R. Krishfeld,  **Beaird, N.L.**, T. Kanzow, J. Schaffer, *2020*: Ocean circulation and variability beneath Nioghalvfjerdsbrae (79 North Glacier) ice tongue. *submitted to Journal of Geophysical Research - Oceans
 
 
 ## Published
