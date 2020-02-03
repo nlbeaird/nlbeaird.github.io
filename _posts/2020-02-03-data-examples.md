@@ -24,9 +24,6 @@ Examples include:
 * Look at slices of the ocean from the World Ocean Atlas
 
 
-Hopefully by clicking the link below you can [**run these notebooks**](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master) without installing anything!
+Hopefully by clicking the following badge you can **run these notebooks** without installing anything!: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master)
 
 (seems to take a long time to load)
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master)
