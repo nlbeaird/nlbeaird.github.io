@@ -5,7 +5,6 @@ header:
   teaser: ../assets/images/serm_north.jpg
 ---
 
-# Data Examples
 
 A collection of simple python notebooks to help me remember how to access publicly available ocean data sets and make simple plots. Many of them use xarray -- possibly to the exclusion of other tools that might work (but xarray is the best!). The code can be viewed on my [github page ](https://github.com/nlbeaird/ocean_data_examples)
 
