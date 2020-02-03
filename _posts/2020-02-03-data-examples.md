@@ -15,17 +15,18 @@ Some are just scratch paper and not fleshed out at all.
 
 Many of these are examples I use(d) in my integrated ocean observing class. Hopefully contributions from students to follow!
 
+Examples include:
+
+* plotting ocean color from ESA and NASA
+* accessing and plotting optimally interpolated SST from NOAA
+* loading and plotting high resolution output from a data-assimilative ROMS model (DOPPIO)
+* access and plot surface currents from HF radar stations or the OSCAR model
+* Look at slices of the ocean from the World Ocean Atlas
+
 
 Hopefully by clicking the link below you can [**run these notebooks**](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master) without installing anything!
 
 (seems to take a long time to load)
 
-||
-
-||
-
-||
-
-VV
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlbeaird/ocean_data_examples.git/master)
