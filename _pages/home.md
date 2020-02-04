@@ -9,7 +9,7 @@ header:
   image: /assets/images/serm_north.jpg
 ---
 
-**I'm a physical oceanographer excited about making novel observations to better understand high latitude processes.**
+**I'm a physical oceanographer excited about making novel observations to better understand ocean climate and high latitude processes.**
 ---
 Read more about my projects [here](https://nlbeaird.github.io/research/)
 
@@ -17,7 +17,7 @@ My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
 
-I've recently joined the teaching faculty in the Department of Marine and Coastal Sciences at Rutgers University. I will be working on the new [Masters program in Integrated Ocean Observing](https://rucool.marine.rutgers.edu/academics/masters-of-operational-oceanography/). Stay tuned for more info about this!
+I've joined the Department of Marine and Coastal Sciences at Rutgers University. I am working on the new [Masters program in Integrated Ocean Observing](https://rucool.marine.rutgers.edu/academics/masters-of-operational-oceanography/). Stay tuned for more info about this!
 
 ---
 
