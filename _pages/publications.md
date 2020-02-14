@@ -18,7 +18,7 @@ toc: true
 
 ## Submitted
 
-* **Beaird, N.L.**, E.L. Shroyer, J.W. Juranek, B. Hales, M. Go\~ni, *2020* Nutrient-rich gravity current formed by upwelling in Barrow Canyon: high resolution observations. *submitted to Journal of Geophysical Research - Oceans*
+* **Beaird, N.L.**, E.L. Shroyer, J.W. Juranek, B. Hales, M. Go\~{n}i, *2020* Nutrient-rich gravity current formed by upwelling in Barrow Canyon: high resolution observations. *submitted to Journal of Geophysical Research - Oceans*
 
 * M. Lindeman, F. Straneo, N. Wilson, J. Toole, R. Krishfeld,  **Beaird, N.L.**, T. Kanzow, J. Schaffer, *2020*: Ocean circulation and variability beneath Nioghalvfjerdsbrae (79 North Glacier) ice tongue. *submitted to Journal of Geophysical Research - Oceans*
 
