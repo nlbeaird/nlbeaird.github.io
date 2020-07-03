@@ -23,7 +23,9 @@ toc: true
 
 ## Published
 
-* **Beaird, N.L.**, E.L. Shroyer, J.W. Juranek, B. Hales, M. Goni, 2020 Nutrient-rich gravity current formed by upwelling in Barrow Canyon: high resolution observations. *in press Journal of Geophysical Research - Oceans*  [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
+* **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., A (2020). Nutrient-rich gravity current formed
+by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysical Research: Oceans, 125, e2020JC016160. [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
+
 
 * M.R. Cape, F. Straneo,  **Beaird, N.L.**, R.M. Bundy, M.A. Charette, 2019:  Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. Nature Geoscience [10.1038/s41561-018-0268-4](http://dx.doi.org/10.1038/s41561-018-0268-4)
 
