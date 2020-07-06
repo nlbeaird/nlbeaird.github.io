@@ -23,7 +23,7 @@ toc: true
 
 ## Published
 
-* **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., A (2020). Nutrient-rich gravity current formed
+* **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., (2020). Nutrient-rich gravity current formed
 by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysical Research: Oceans, 125, e2020JC016160. [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
 
 
