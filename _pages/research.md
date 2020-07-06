@@ -21,6 +21,23 @@ For a sense of this of how this happens, check out some reflections on life at s
 <br>
 
 <hr width="100%" size="10" noshade>
+# The Dynamic Arctic
+
+<figure >
+    <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
+    <figcaption> swirls of phytoplankton in the Chukchi Sea from NASA  </figcaption>
+</figure>
+We instrumented a unique biogeochemical towed platform with velocity and turbulence sensors to look in fine detail at physical controls on nutrient distributions in the Chukchi Sea. During the cruise we observed an upwelling event that had dramatic impacts on the nutrient inventories on the shelf. The upwelled dense (nutrient-rich) water formed a gravity current with lots of interesting dynamics properties. See more in our paper [Nutrient‐rich gravity current formed by upwelling in Barrow Canyon: High resolution observations](https://doi.org/10.1029/2020JC016160)
+
+<figure >
+    <img src="/assets/images/BC_BHS.png">
+    <figcaption> High resolution sections across Barrow Canyon and Hanna Shoal  </figcaption>
+</figure>
+
+
+
+
+<hr width="100%" size="10" noshade>
 # Glacial Meltwater and Ecosystems
 
 <figure class="half" >
@@ -36,23 +53,8 @@ Our exciting new work out lead by Mattias Cape showing the [importance of glacia
     <figcaption>   </figcaption>
 </figure>
 
-<hr width="100%" size="10" noshade>
-# The Dynamic Arctic
-
-<figure >
-    <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
-    <figcaption> swirls of phytoplankton in the Chukchi Sea from NASA  </figcaption>
-</figure>
-We instrumented a unique biogeochemical towed platform with velocity and turbulence sensors to look in fine detail at physical controls on nutrient distributions in the Chukchi Sea. During the cruise we observed an upwelling even that had dramatic impacts on the nutrient inventories on the shelf. More on this in an upcoming paper!
-
-<figure >
-    <img src="/assets/images/BC_BHS.png">
-    <figcaption> High resolution sections across Barrow Canyon and Hanna Shoal  </figcaption>
-</figure>
-Learn more in [this great blog post](https://thedynamicarctic.com/2017/08/20/follow-the-flow/) by Anchorage School District's Deb Greene.
 
 <hr width="100%" size="10" noshade>
-
 # Measuring Greenland's Meltwater
 
 Listen to a radio story about this work from Ari Daniel:
