@@ -26,6 +26,8 @@ toc: true
 * **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., (2020). Nutrient-rich gravity current formed
 by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysical Research: Oceans, 125, e2020JC016160. [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
 
+* Lindeman, M.R., Straneo, F., Wilson, N.J., Toole, J.M., Krishfeld, R.A., **Beaird, N.L.**, Kanzow, T. and Schaffer, J., (2020). Ocean circulation and variability beneath Nioghalvfjerdsbræ (79 North Glacier) ice tongue. Journal of Geophysical Research: Oceans, e2020JC016091. [10.1029/2020JC016091](https://doi.org/10.1029/2020JC016091)
+
 
 * M.R. Cape, F. Straneo,  **Beaird, N.L.**, R.M. Bundy, M.A. Charette, 2019:  Nutrient release to oceans from buoyancy-driven upwelling at Greenland tidewater glaciers. Nature Geoscience [10.1038/s41561-018-0268-4](http://dx.doi.org/10.1038/s41561-018-0268-4)
 
