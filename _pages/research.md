@@ -74,12 +74,14 @@ The Greenland Ice Sheet has been melting at an accelerating pace. As it melts, m
 
 # Subduction at the Polar Front
 
-The polar front in the North Atlantic is bound to the ridge between Iceland and the Faroe Islands, where about one-half of the northward transport of warm Atlantic Water into the Nordic Seas occurs, as well as about one sixth of the equatorward dense overflow. We use a comprehensive glider survey to investigate instability and subduction at the front and its relationship with wintertime mixing.
-
 <figure >
     <img src="/assets/images/IFR-aw-pathways_5.png">
     <figcaption> Sea Surface Temperature showing the Iceland Faroe Front and cross-frontal glider tracks (left). Right: Mean dynamic height (pink), surface circulation (blue) and shipboard ADCP (black, Childers et al. 2014).  </figcaption>
 </figure>
+
+The polar front in the North Atlantic is bound to the ridge between Iceland and the Faroe Islands, where about one-half of the northward transport of warm Atlantic Water into the Nordic Seas occurs, as well as about one sixth of the equatorward dense overflow. We use a comprehensive glider survey to investigate instability and [subduction at the front and its relationship with wintertime mixing](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011501).
+
+
 
 
 <hr width="100%" size="10" noshade>
