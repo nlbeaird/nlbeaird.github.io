@@ -21,7 +21,7 @@ For a sense of this of how this happens, check out some reflections on life at s
 <br>
 
 <hr width="100%" size="10" noshade>
-# The Dynamic Arctic
+## The Dynamic Arctic
 
 <figure >
     <img src="/assets/images/chukchi_oli_2018169_crop.jpg">
@@ -38,7 +38,7 @@ We instrumented a unique biogeochemical towed platform with velocity and turbule
 
 
 <hr width="100%" size="10" noshade>
-# Glacial Meltwater and Ecosystems
+## Glacial Meltwater and Ecosystems
 
 <figure class="half" >
     <img  src="/assets/images/nat_geo_cover.png">
