@@ -8,6 +8,7 @@ header:
   #overlay_image: /assets/images/serm_north.jpg
   overlay_image:  /assets/images/grn_nordic.png
 
+toc: true
 ---
 
 Most of my work revolves around making observations of key high latitude processes. The sections below give an overview of this work.
