@@ -87,7 +87,7 @@ The polar front in the North Atlantic is bound to the ridge between Iceland and 
 
 <hr width="100%" size="10" noshade>
 
-## Bouncing Seagliders
+## Vertical Velocity & gliders
 
 
 Turbulent mixing is an important process controlling the descent rate, water mass modification and volume transport increase due to entrainment in the dense overflows across the Greenland-Scotland Ridge. These overflows, along with entrained Atlantic waters, form a major portion of the North Atlantic Deep Water which pervades the abyssal ocean. Three years of Seaglider observations of the overflows across the eastern Greenland-Scotland Ridge are leveraged to map the [distribution of dissipation of turbulent kinetic energy on the Iceland-Faroe Ridge]( https://doi.org/10.1175/JPO-D-12-094.1). A method has been applied using the finescale vertical velocity and density measurements from the glider to infer dissipation. The method, termed the Large-Eddy Method (LEM), is compared with a microstructure survey of the Faroe Bank Channel (FBC). The LEM reproduces the patterns of dissipation observed in the microstructure survey, which vary over several orders of magnitude. Agreement between the inferred LEM and more direct microstructure measurements is within a factor of two. Application to the 9432 dives which encountered overflow waters on the Iceland-Faroe Ridge reveals three regions of enhanced dissipation: one downstream of the primary FBC sill, another downstream of the secondary FBC sill, and a final region in a narrow jet of overflow along the Iceland shelf break.
