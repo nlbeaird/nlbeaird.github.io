@@ -17,7 +17,6 @@ My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
 
-I've joined the Department of Marine and Coastal Sciences at Rutgers University. I am working on the new [Masters program in Integrated Ocean Observing](https://rucool.marine.rutgers.edu/academics/masters-of-operational-oceanography/). Stay tuned for more info about this!
 
 ---
 
