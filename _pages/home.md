@@ -9,7 +9,7 @@ header:
   image: /assets/images/serm_north.jpg
 ---
 
-**I'm a physical oceanographer excited about making novel observations to better understand ocean climate and high latitude processes.**
+**I'm a physical oceanographer excited about making novel observations to better understand ocean physics and high latitude processes.**
 ---
 Read more about my research [here](https://nlbeaird.github.io/research/)
 
