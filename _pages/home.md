@@ -11,12 +11,13 @@ header:
 
 **I'm a physical oceanographer excited about making novel observations to better understand ocean physics and high latitude processes.**
 ---
-Read more about my research [here](https://nlbeaird.github.io/research/)
+I work at MIT's Lincoln Laboratory.
+
+Read more about my academic research [here](https://nlbeaird.github.io/research/)
 
 My CV can be found [here](https://nlbeaird.github.io/assets/beaird_CV.pdf).
 
 ---
-
 
 ---
 

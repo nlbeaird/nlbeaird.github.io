@@ -95,7 +95,7 @@ author:
   bio              : "<p>Physical Oceanographer <br />
     nlbeaird@gmail.com</p>
      "
-  location         : "New Brunswick, NJ"
+  location         : 
   email            :
   uri              :
   home             : #"_pages/home.md" # null (default), "absolute or relative url to link to author home"
