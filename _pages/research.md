@@ -11,7 +11,7 @@ header:
 toc: true
 ---
 
-Most of my work revolves around making observations of key high latitude processes. The sections below give an overview of this work.
+Most of my academic research revolves around making observations of key high latitude processes. The sections below give an overview of this work.
 
 For a sense of this of how this happens, check out some reflections on life at sea from our team in Sermilik Fjord in 2015:
 
