@@ -95,7 +95,7 @@ author:
   bio              : "<p>Physical Oceanographer <br />
     nlbeaird@gmail.com</p>
      "
-  location         : 
+  location         :
   email            :
   uri              :
   home             : #"_pages/home.md" # null (default), "absolute or relative url to link to author home"
@@ -251,16 +251,16 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: #true
-      comments: # true
-      share: #true
-      related: #true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: #true
+  #     comments: # true
+  #     share: #true
+  #     related: #true
   # _pages
   - scope:
       path: "_pages"
