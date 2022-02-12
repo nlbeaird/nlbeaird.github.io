@@ -11,7 +11,7 @@ header:
 
 **I'm a physical oceanographer excited about making novel observations to better understand ocean physics and high latitude processes.**
 ---
-I work at MIT's Lincoln Laboratory.
+I work at MIT Lincoln Laboratory.
 
 Read more about my academic research [here](https://nlbeaird.github.io/research/)
 
