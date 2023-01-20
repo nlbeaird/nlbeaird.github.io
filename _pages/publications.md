@@ -18,7 +18,7 @@ toc: true
 
 ## Submitted
 
-* **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins, *2023*: Glacial Meltwater in the Current System of Southern Greenland. *submitted to Journal of Geophysical Research - Oceans*
+* **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins: Glacial Meltwater in the Current System of Southern Greenland. *submitted to Journal of Geophysical Research - Oceans*
 
 
 ## Published
