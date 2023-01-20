@@ -16,12 +16,14 @@ layouts_gallery:
 toc: true
 ---
 
-<!-- ## Submitted
+## Submitted
 
-* M. Lindeman, F. Straneo, N. Wilson, J. Toole, R. Krishfeld,  **Beaird, N.L.**, T. Kanzow, J. Schaffer, *2020*: Ocean circulation and variability beneath Nioghalvfjerdsbrae (79 North Glacier) ice tongue. *submitted to Journal of Geophysical Research - Oceans* -->
+* **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins, *2023*: Glacial Meltwater in the Current System of Southern Greenland. *submitted to Journal of Geophysical Research - Oceans*
 
 
 ## Published
+
+* Juranek, L. W., Hales, B., **Beaird, N. L.**, Goñi, M., Shroyer, E. L., Allen, J. , White, A (2023). 	The Importance of Subsurface Productivity in the Pacific Arctic Gateway as Revealed by High-resolution Biogeochemical Surveys. Journal of Geophysical Research: Oceans, *in press*. DOI: 10.1029/2022JC019292
 
 * **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., (2020). Nutrient-rich gravity current formed
 by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysical Research: Oceans, 125, e2020JC016160. [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
