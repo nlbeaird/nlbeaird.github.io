@@ -23,7 +23,7 @@ toc: true
 
 ## Published
 
-* Juranek, L. W., Hales, B., **Beaird, N. L.**, Goñi, M., Shroyer, E. L., Allen, J. , White, A (2023). 	The Importance of Subsurface Productivity in the Pacific Arctic Gateway as Revealed by High-resolution Biogeochemical Surveys. Journal of Geophysical Research: Oceans, *in press*. DOI: 10.1029/2022JC019292
+* Juranek, L. W., Hales, B., **Beaird, N. L.**, Goñi, M., Shroyer, E. L., Allen, J. , White, A (2023). 	The Importance of Subsurface Productivity in the Pacific Arctic Gateway as Revealed by High-resolution Biogeochemical Surveys. Journal of Geophysical Research: Oceans, 128, e2022JC019292. DOI: [10.1029/2022JC019292](https://doi.org/10.1029/2022JC019292)
 
 * **Beaird, N. L.**, Shroyer, E. L., Juranek, L. W., Hales, B., & Goñi, M., (2020). Nutrient-rich gravity current formed
 by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysical Research: Oceans, 125, e2020JC016160. [10.1029/2020JC016160](https://doi.org/10.1029/2020JC016160)
