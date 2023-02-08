@@ -16,6 +16,16 @@ layouts_gallery:
 toc: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DLXCWL47E6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DLXCWL47E6');
+</script>
+
 ## Submitted
 
 * **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins: Glacial Meltwater in the Current System of Southern Greenland. *submitted to Journal of Geophysical Research - Oceans*
