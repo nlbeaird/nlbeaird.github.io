@@ -33,7 +33,7 @@ toc: true
 
 <!-- ## Published -->
 
-* **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins (2023). Glacial Meltwater in the Current System of Southern Greenland. *in press* Journal of Geophysical Research - Oceans
+* **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins (2023). Glacial Meltwater in the Current System of Southern Greenland. Journal of Geophysical Research - Oceans, 128, e2023JC019658. DOI: [10.1029/2023JC019658](https://doi.org/10.1029/2023JC019658)
 
 * Juranek, L. W., Hales, B., **Beaird, N. L.**, Goñi, M., Shroyer, E. L., Allen, J. , White, A (2023). 	The Importance of Subsurface Productivity in the Pacific Arctic Gateway as Revealed by High-resolution Biogeochemical Surveys. Journal of Geophysical Research: Oceans, 128, e2022JC019292. DOI: [10.1029/2022JC019292](https://doi.org/10.1029/2022JC019292)
 
