@@ -32,6 +32,7 @@ toc: true
 
 
 <!-- ## Published -->
+## Peer Reviewed
 
 * **Beaird, N.L.**, F. Straneo, I.A.A. Le Bras, R. Pickart, and W. Jenkins (2023). Glacial Meltwater in the Current System of Southern Greenland. Journal of Geophysical Research - Oceans, 128, e2023JC019658. DOI: [10.1029/2023JC019658](https://doi.org/10.1029/2023JC019658)
 
@@ -59,3 +60,15 @@ by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysi
 * **Beaird, N.L.**, P.B. Rhines, C.C. Eriksen, 2013:  Overflow waters at the Iceland-Faroe Ridge observed in multi-year Seaglider surveys.  Journal of Physical Oceanography, 43, [doi: 10.1175/JPO-D-13-029.1](https://doi.org/10.1175/JPO-D-13-029.1)
 
 * **Beaird, N.L.**, I. Fer, P.B. Rhines, C.C. Eriksen, 2012: Dissipation of Turbulent Kinetic Energy inferred from Seagliders: An application to the eastern Nordic Seas overflows. Journal of Physical Oceanography, 42, [doi: 10.1175/JPO-D-12-094.1]( https://doi.org/10.1175/JPO-D-12-094.1)
+
+## Conference Papers
+
+* Miller, M. D., **Beaird, N.L.**, & Wawrzynek, E. (2024, September). Ocean state estimation via interior-plus-surface quasigeostrophy integrated with measurements onboard an autonomous underwater vehicle. In 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV) (pp. 1-6). IEEE. doi: \\10.1109/AUV61864.2024.11030790
+
+* Book, J.W., Miller, M.D., **Beaird, N.L.**, Barron, C., Edwards, C.R., Edwards, J.R., Gong, D., Lawrence, A., Lynch, S.D., Miles, T. and Osborne, J., 2023, September. Predictions of AcousticS with Smart Experimental Networks of GlidERS (PASSENGERS). In OCEANS 2023-MTS/IEEE US Gulf Coast (pp. 1-7). IEEE. doi: 10.23919/OCEANS52994.2023.10337217
+
+* Lynch, S. D., Brown, D., Cohen, B., DeVoe, C., Liu, A., & **Beaird, N.L.** (2023, September). A High-Performance, Fully Encapsulated, Optics-Based Ocean Salinometer. In OCEANS 2023-MTS/IEEE US Gulf Coast (pp. 1-6). IEEE. doi: 10.23919/OCEANS52994.2023.10336984
+
+*  Sheehan, A., Saba, G. K., Nardelli, S., & **Beaird, N.L.** (2021, September). Developing an Open-Source Analysis Pipeline for a Glider-Based Acoustic Zooplankton Fish Profiler (AZFP). In OCEANS 2021: San Diego–Porto (pp. 1-6). IEEE. doi: 10.23919/OCEANS44145.2021.9706028
+
+* Anarumo, J., Miles, T., Roarty, H., Kohut, J., & **Beaird, N.L.** (2020, October). An Open-Source Software Application for Drifter Trajectory Prediction in the Mid-Atlantic Bight. In Global Oceans 2020: Singapore–US Gulf Coast (pp. 1-8). IEEE. doi: 10.1109/IEEECONF38699.2020.9389124
