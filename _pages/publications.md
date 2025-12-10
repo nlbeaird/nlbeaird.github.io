@@ -63,6 +63,8 @@ by upwelling in Barrow Canyon: High-resolution observations. Journal of Geophysi
 
 ## Conference Papers
 
+* **N. L. Beaird** R. Chapurin, D. Le Sage, T. Carlson, J. B. Ashcom, A. Mangognia, P. F. Moulton, A. March, M. C. Stowe "Brillouin Lidar: Towards a High Coverage Rate Remote Subsurface Hydrographic Capability," OCEANS 2025 - Great Lakes, Chicago, IL, USA, 2025, pp. 1-8, [doi: 10.23919/OCEANS59106.2025.11244932](https://ieeexplore.ieee.org/document/11244932).
+
 * Miller, M. D., **Beaird, N.L.**, & Wawrzynek, E. (2024, September). Ocean state estimation via interior-plus-surface quasigeostrophy integrated with measurements onboard an autonomous underwater vehicle. In 2024 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV) (pp. 1-6). IEEE. doi: \\10.1109/AUV61864.2024.11030790
 
 * Book, J.W., Miller, M.D., **Beaird, N.L.**, Barron, C., Edwards, C.R., Edwards, J.R., Gong, D., Lawrence, A., Lynch, S.D., Miles, T. and Osborne, J., 2023, September. Predictions of AcousticS with Smart Experimental Networks of GlidERS (PASSENGERS). In OCEANS 2023-MTS/IEEE US Gulf Coast (pp. 1-7). IEEE. doi: 10.23919/OCEANS52994.2023.10337217
